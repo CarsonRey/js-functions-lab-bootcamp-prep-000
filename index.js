@@ -1,5 +1,6 @@
 // write your code below!
+var name = Carson; 
 
-function happyHolidays(){
-  return `Happy Holidays!`
+function happyHolidays(string, name){
+  console.log(`Happy Holidays!`)
 }
