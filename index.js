@@ -5,4 +5,6 @@ function happyHolidays(string){
   console.log(`Happy Holidays!`)
 }
 
-function happyHolidays(firstName)
+function happyHolidays(firstName){
+  return `Happy Holidays!, $(firstName)`
+}
